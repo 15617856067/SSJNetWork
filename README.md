@@ -228,8 +228,11 @@ swizzling_exchangeMethod([self class],@selector(dismissViewControllerAnimated:co
 `SJNetWorkConfig`变量配置，
 
 dubugLogeEnable：请求完成控制台直接输出
+
 SQLLogEnable:记录在sql提高跳转到vc的时候展示
+
 ne_sqlitePassword：log日志数据库密码
+
 ne_saveRequestMaxCount：保存请求的最大个数
 
 
